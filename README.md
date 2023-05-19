@@ -1,8 +1,8 @@
 # công cụ chuyển đổi ngôn ngữ vùng miền
 
-example: 
+Example: 
 
-chuyển đổi văn bản giọng sài gòn sang đà nẵng
+convert text Sai Gon accent to Da Nang accent or Sai Gon accent to Genz accent
 
 Brainstorming:
 
@@ -12,3 +12,5 @@ Brainstorming:
 - feat: voice
 - low cost or no cost 
 - not using paid stuff like api
+- auto detect what accent user use
+- make it simple cuz I'm newbie
